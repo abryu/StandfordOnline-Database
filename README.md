@@ -1,4 +1,4 @@
-TABASES: SELF-PACED 
+# DTABASES: SELF-PACED 
 
 (http://online.stanford.edu/course/databases-self-paced)
 
